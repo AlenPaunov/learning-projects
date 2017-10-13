@@ -1,0 +1,19 @@
+bin/
+obj/
+Properties/
+/.vs
+
+*.csproj
+*.config
+*.sln
+*.suo
+*.ide
+
+# Object files
+*.obj
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+
+# Debug files
+*.pdb
